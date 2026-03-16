@@ -1,0 +1,22 @@
+lib/token_verifier/token_verifier.o: lib/token_verifier/token_verifier.c \
+ /home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/libcflat.h \
+ /home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/linux/compiler.h \
+ /home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/string.h \
+ /home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/qcbor_decode.h \
+ /home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/qcbor_common.h \
+ /home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/qcbor_private.h \
+ /home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/UsefulBuf.h \
+ /home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/qcbor_spiffy_decode.h \
+ lib/token_verifier/attest_defines.h lib/token_verifier/token_verifier.h \
+ lib/token_verifier/token_dumper.h
+/home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/libcflat.h:
+/home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/linux/compiler.h:
+/home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/string.h:
+/home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/qcbor_decode.h:
+/home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/qcbor_common.h:
+/home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/qcbor_private.h:
+/home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/UsefulBuf.h:
+/home/daizhiyuan/workspace/RDV3/validation/sys-test/kvm-unit-tests/lib/qcbor/inc/qcbor/qcbor_spiffy_decode.h:
+lib/token_verifier/attest_defines.h:
+lib/token_verifier/token_verifier.h:
+lib/token_verifier/token_dumper.h:

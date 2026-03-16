@@ -1,0 +1,4 @@
+		enum image_attributes {
+		RE_IMAGE_LOAD_ADDRESS = 0x70105C00,
+		RE_SIGN_BIN_SIZE = 0x10000,
+		};
