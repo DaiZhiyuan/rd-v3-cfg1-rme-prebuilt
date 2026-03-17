@@ -13,8 +13,6 @@ FS_TYPE=""
 TAP_INTERFACE=""
 HEADLESS="false"
 
-#VIRTIO_IMAGE_PATH=./output/rdv3/grub-buildroot.img
-
 source $PWD/common_util.sh
 
 # Check that the path to the model exists.
